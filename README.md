@@ -6,7 +6,7 @@ As the code is unlikely to be looked at, we kept this native structure.
 
 ACKNOWLEDGEMENTS:
 
-This code makes use of midiBuffer.py:
+This code makes use of midiBuffer.py to handle routing of MIDI to eternal audio software: 
 
 ================================================================================
 	midiBuffer.py
